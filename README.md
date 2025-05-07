@@ -45,10 +45,18 @@ A digital solution for parcel tracking, agent assignments, and delivery optimiza
 
 ## 📥 Installation  
 
+
+git clone https://github.com/your-repo/courier-management-system.git
+=======
 git clone [https://github.com/your-repo/courier-management-system.git](https://github.com/iqramaqsoodmughal363/semester-project)
+
 cd courier-management-system
 npm install
 npm start
+
+
+
+=======
 
 ## 🤝 How to Contribute  
 1. Fork the repository  
