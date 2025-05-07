@@ -1,4 +1,4 @@
-Here's the updated template with your provided information:
+
 
 # 🏫 Government Graduate College for Boys Civil Lines Sheikhupura  
 **Department of Information Technology**  
